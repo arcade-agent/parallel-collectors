@@ -5,6 +5,7 @@ Overcoming limitations of standard Parallel Streams
 [![pitest](https://github.com/pivovarit/parallel-collectors/actions/workflows/pitest.yml/badge.svg?branch=main)](http://pivovarit.github.io/parallel-collectors/pitest)
 [![Maven Central Version](https://img.shields.io/maven-central/v/com.pivovarit/parallel-collectors)](https://central.sonatype.com/artifact/com.pivovarit/parallel-collectors/versions)
 [![javadoc](https://javadoc.io/badge2/com.pivovarit/parallel-collectors/4.0.0/javadoc.svg)](https://javadoc.io/doc/com.pivovarit/parallel-collectors/4.0.0)
+[![Architecture Health](https://img.shields.io/endpoint?url=https://arcade-agent.github.io/parallel-collectors/badge.json)](https://arcade-agent.github.io/parallel-collectors/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/pc-dark.png">
