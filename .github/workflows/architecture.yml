@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Analyze Architecture
-        uses: arcade-agent/analyze-action@1972f1cee124a8e81a4f82df6018a75ab8f41b47 # v1.1.0
+        uses: arcade-agent/analyze-action@4db79fe26878a80405020f293fa478d42737c200 # v1.3.0
         with:
           output-dir: 'public'
           fail-on-smells: false
